@@ -1,4 +1,4 @@
-
+// this file basically use for Duplicating character in java as you see it
 import java.util.Arrays;
 
 public class DuplicateCharacters {
