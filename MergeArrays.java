@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+// this implementation basically use for merging two arrays 
 public class MergeArrays {
     
     public static void mergeArrays(int[] X, int[] Y) {
