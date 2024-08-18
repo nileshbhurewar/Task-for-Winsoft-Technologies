@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 // finding min and max 
 public class MinAndMax {
     public static void main(String[] args) {
@@ -48,7 +49,6 @@ public class MinAndMax {
                 s.nextLine(); // Consume invalid input
             }
         }
-        
         s.close(); // Close the scanner
     }
 }
