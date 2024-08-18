@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// finding min and max 
 public class MinAndMax {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
