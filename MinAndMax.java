@@ -49,7 +49,6 @@ public class MinAndMax {
                 s.nextLine(); // Consume invalid input
             }
         }
-
         s.close(); // Close the scanner
     }
 }
